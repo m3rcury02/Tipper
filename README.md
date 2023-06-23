@@ -1,7 +1,7 @@
 Tipper - Tip Calculator app
 =================================
 
-This app was made with the help of [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course): Tipper to sharpen my skills in Kotlin and Jetpack Compose.
+This app was made with the help of [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) to sharpen my skills in Kotlin and Jetpack Compose.
 
 
 About
